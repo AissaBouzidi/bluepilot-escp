@@ -111,8 +111,8 @@ Example:
 
 | Branch                                                                              | Definition                                              | Compatible Device |                                                                                |
 |:------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------|
-| [`stable`](https://github.com/bluepilotdev/bluepilot/stable)           | • Latest release/stable branch                          | comma three       | 
-| [`experimental`](https://github.com/bluepilotdev/bluepilot/experimental)                   | • Latest development branch with experimental features  | comma three       | 
+| [`stable`](xxxxxxxxxxxxxxxxxxxxxxxxx)           | • Latest release/stable branch                          | comma three       | 
+| [`experimental`](xxxxxxxxxxxxxxxxxxxx)                   | • Latest development branch with experimental features  | comma three       | 
 
 </details>
 
